@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student at the University of Oxford, kindly supported by the Clarendon Scholarship and the Kennedy Trust Prize Studentship. I am working on developing machine learning tools to better understand biological systems. Specifically, my research focuses on cell fate decisions and tissue dynamics. Previously, I completed MSc in Mathematical Modelling and Scientific Computing also at Oxford and BSc in Theoretical Physics at University College London. I grew up in Georgia and moved to the UK at the start of my undergraduate degree.
+I am a DPhil student at the University of Oxford, kindly supported by the Clarendon Scholarship and working at the intersection of machine learning and computational neuroscience. Specifically, I am focusing on predictive coding - a local, energy based learning framework. My aim is to analyse the learning dynamics in predictive coding networks and find whether it can offer any advantages in standard machine learning tasks such as continual and online learning. Previously, I completed MSc in Mathematical Modelling and Scientific Computing also at Oxford and BSc in Theoretical Physics at University College London. I grew up in Georgia and moved to the UK at the start of my undergraduate degree.
 
 Research Interests
 ======
-My interests lie at the intersection of applied mathematics, machine learning and systems biology. I like working with data to develop interpretable tools and uncover hidden patterns. So far my focus has been on Geometric Deep Learning.
+My interests lie at the intersection of applied mathematics, machine learning and theoretical neuroscience.
