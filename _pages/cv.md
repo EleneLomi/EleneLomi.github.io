@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* DPhil in Machine Learning and Computational Neuroscience, University of Oxford
+* DPhil in Computational Neuroscience and Machine Learning, University of Oxford
 * MSc in Mathematical Modelling and Scientific Computing, University of Oxford, 2023
 * BSc in Theoretical Physics, University College London, 2022
 
